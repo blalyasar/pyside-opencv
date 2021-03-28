@@ -2,4 +2,7 @@
 pyside2 and opencv-python
 
 pip install opencv-python
-pip install pyside2
+
+pip install pyside6
+
+![image](https://user-images.githubusercontent.com/49458946/112754822-8d408d00-8fe6-11eb-8321-684003daeecb.png)
